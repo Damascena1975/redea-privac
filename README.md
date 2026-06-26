@@ -1,1 +1,1 @@
-# redea-privac
+# redea-privacy
